@@ -126,3 +126,5 @@ namespace BubbleSort //change this to string of name
         }
     }
 }
+
+//save the name to the text file
